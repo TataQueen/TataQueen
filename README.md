@@ -3,7 +3,7 @@
   My name is Lilith, nice to meet you
 - 👀 I’m interested in ...
 
-  Industrial engineering
+  Electronics engineering
   
   Programming (I know basic things please don't kill me if I do anything stupid lol)
   
@@ -16,10 +16,14 @@
   
   Arduino
   
-  AutoCad
-- 💞️ I’m looking to collaborate on ...
+  HTML
   
-  Let me finish highschool first, then we will talk...
+  CSS
+- 💞️ I’m looking to do ...
+  
+    My own webpage and online room game service o.o
 - 📫 How to reach me ...
   
   Don't reach me, I'm fast o.o
+
+  Corporate mail: business@tatata.ga

@@ -10,18 +10,21 @@
   Social justice
   
   LGBTQIA+ rights (I'm trans lol)
+  
 - 🌱 I’m currently learning ...
   
   Python
   
-  Arduino
+  C++
   
   HTML
   
   CSS
+  
 - 💞️ I’m looking to do ...
   
-    My own webpage and online room game service o.o
+    God knows what, idk at this point
+    
 - 📫 How to reach me ...
   
   Don't reach me, I'm fast o.o

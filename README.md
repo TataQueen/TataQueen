@@ -9,7 +9,7 @@
   
   Social justice
   
-  LGBTQIA+ rights (I'm trans lol)
+  LGB(T)QIA+ rights
   
 - 🌱 I’m currently learning ...
   

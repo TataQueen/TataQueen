@@ -2,8 +2,6 @@
   
   My name is Lilith, nice to meet you
 - 👀 I’m interested in ...
-
-  Electronics engineering
   
   Programming (I know basic things please don't kill me if I do anything stupid lol)
   
